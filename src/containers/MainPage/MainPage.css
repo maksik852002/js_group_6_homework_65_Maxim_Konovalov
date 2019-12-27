@@ -1,0 +1,20 @@
+.banner {
+  min-height: 600px;
+  background: url(https://p.w3layouts.com/demos/port/web/images/banner.jpg) center/100%;
+}
+
+.banner-wrapper {
+  position: absolute;
+  top: 10em;
+  width: 100%;
+}
+
+.banner h2 { 
+  font-size: 4em;
+  color: #fff;
+  font-weight: 100;
+  width: 61%;
+  margin: 0 auto;
+  padding: 0 0 1em;
+  line-height: 1.2em;
+}

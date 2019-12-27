@@ -1,0 +1,1 @@
+export const CATEGORIES = ['main', 'projects', 'services', 'about', 'contacts',];
